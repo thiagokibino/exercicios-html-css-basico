@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 5px;
+}
+
+
+.tabela{
+    border: 0px solid;
+    padding: 8px;
+    border-color: rgba(0, 0, 0, 0);
+    color: white;
+    }
+
+.cabecalho-moda {
+    background-color: #bb86fc ;
+}
+
+.informacoes-da-tabela-moda{
+    background-color: #424250;
+}
+
+.cabecalho-casa{
+    background-color: #00c4b4;
+}
+
+.informacoes-da-tabela-casa{
+    background-color: #424250;
+}
